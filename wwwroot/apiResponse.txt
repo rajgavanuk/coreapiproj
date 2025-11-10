@@ -1,0 +1,2 @@
+API Response at 10-11-2025 17:20:10
+Hello from ASP.NET Core!
